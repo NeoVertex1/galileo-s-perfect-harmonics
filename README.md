@@ -65,3 +65,7 @@ The tensor field solution addresses the historical problems by:
 - Providing mathematical justification for slight deviations from pure ratios
 - Creating a unified framework that bridges just intonation and equal temperament
 - Explaining why mechanical instruments (like Galileo's) sometimes fail to produce "perfect" intervals
+
+example tranformation:
+
+![figure_1](Figure_1.png)
