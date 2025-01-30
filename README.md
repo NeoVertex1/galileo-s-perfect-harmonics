@@ -73,7 +73,7 @@ example tranformation:
 
 # Proofs for those into math
 
-Here is your beautifully rendered LaTeX proof:
+
 
 ---
 
