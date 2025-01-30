@@ -5,6 +5,8 @@ The tensor field transformation provides a mathematical bridge between three tun
 - Just intonation
 - Equal temperament
 
+[for unit-test code go here please](https://github.com/NeoVertex1/galileo-s-perfect-harmonics/blob/main/src/harmonics.py)
+
 Key findings:
 
 a) Quantum Ratio Stability:
